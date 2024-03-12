@@ -58,7 +58,8 @@ with open("export.txt", "w") as f:
     for name, value in index.items():
       f.write(f"{name}:\n")
       if name == "Words":
-         for part, value in value.items():
+        f.write("\n")
+        for part, value in value.items():
             f.write(f"{part}:\n")
             f.write("\n".join(value))
             f.write("\n\n")
