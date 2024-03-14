@@ -1,136 +1,134 @@
 Words:
 
 n.:
-accountability(n.)問責
-advocacy(n.)提倡
-agility(n.)敏捷
-amateur(n.)素人
-antics(n.)滑稽
-asset(n.)有價值的東西
-brochure(n.)手冊
-column(n.)專欄
-consent(n.)同意
-consistency(n.)一致性；質地
+stance(n.)立場
 contentment(n.)滿足
-coriander(n.)香草
-cradle(n.)搖籃
 credit(n.)學分[C]；讚許，賒帳[U]
+union(n.)工會，聯盟 衍：combination
+resort(v.)採取(n.)度假勝地
+vain(adj.)虛榮的 (n.)空虛
+accountability(n.)問責
+growth(n.)腫瘤
+leverage(n.)力量
+consent(n.)同意
+offspring(n.)後代
+dispute(n.)紛爭
+tradeoff(n.)妥協
+asset(n.)有價值的東西
+tactic(n.)手法
 critter(n.)小動物
+gland(n.)腺體
+pigment(n.)天然染色劑
+hue(n.)色調
+medium(n.)媒介 = agent
+synthetic(n.)人造模仿天然物
+resin(n.)樹脂
+reservoir(n.)水庫
+sanctuary(n.)避難所
+splinter(n.)尖碎片
+coriander(n.)香草
 cumin(n.)孜然
+turmeric(n.)薑黃
+stew(n.)燉肉
+trio(n.)三個人或三件事
+consistency(n.)一致性；質地
+guests(n.)賓客
+antics(n.)滑稽
+temptation(n.)誘惑
+regret(n.)後悔
+ultimatum(n.)最後通牒
+wharf(n.)碼頭
+yacht(n.)遊艇
+pabulum(n.)精神糧食
+foible(n.)怪癖
+furniture(n.)家具
 demonstration(n.)示範
 deposit(n.)存款
 dilemma(n.)困境
 disdain(n.)鄙視
-dispute(n.)紛爭
-excerpt(n.)摘錄片段
-fare(n.)票價
-foible(n.)怪癖
-furniture(n.)家具
-gland(n.)腺體
-grave(n.)墳墓
-growth(n.)腫瘤
-guests(n.)賓客
-hue(n.)色調
-indicator(n.)
-infancy(n.)起步階段
-leverage(n.)力量
-medallion(n.)獎牌；紀念章
-medium(n.)媒介 = agent
-offspring(n.)後代
-pabulum(n.)精神糧食
-pigment(n.)天然染色劑
-plight(n.)困境
-plot(n.)情節
-punctuation(n.)標點符號
-regime(n.)政權
-regret(n.)後悔
-reservoir(n.)水庫
-resin(n.)樹脂
-resort(v.)採取(n.)度假勝地
-sanctuary(n.)避難所
-script(n.)劇本
 sentiment(n.)感傷
-splinter(n.)尖碎片
-stance(n.)立場
-stew(n.)燉肉
-synthetic(n.)人造模仿天然物
-tactic(n.)手法
-temptation(n.)誘惑
-tradeoff(n.)妥協
-trio(n.)三個人或三件事
-turmeric(n.)薑黃
-ultimatum(n.)最後通牒
-union(n.)工會，聯盟 衍：combination
+punctuation(n.)標點符號
+brochure(n.)手冊
 uproar(n.)反對聲浪
-vain(adj.)虛榮的 (n.)空虛
+amateur(n.)素人
+agility(n.)敏捷
+plot(n.)情節
+regime(n.)政權
+plight(n.)困境
 visa(n.)簽證
-wharf(n.)碼頭
-yacht(n.)遊艇
+indicator(n.)
+cradle(n.)搖籃
+grave(n.)墳墓
+advocacy(n.)提倡
+script(n.)劇本
+column(n.)專欄
+excerpt(n.)摘錄片段
+medallion(n.)獎牌；紀念章
+fare(n.)票價
+infancy(n.)起步階段
 
 v.:
-administer(v.)掌管
-charge(v.)指控
-coin(v.)創造
-consummate(adj.)完美的 (v.)完善
 content(v.)滿足
-cultivate(v.)栽培；種植
-deposit(v.)存錢到銀行
-deter(v.)威嚇
+revise(v.)修正 衍：amend, correct, modify
+stagger(v.)步履蹣跚
+yield(v.)產生；讓步
 dub(v.)稱…為
-dull(v.)使失去…
+maneuver(v.)滑順華麗的操作
+deposit(v.)存錢到銀行
+consummate(adj.)完美的 (v.)完善
 empower(v.)授權
-entitle(v.)賦予
 exploit(v.)剝削
-hone(v.)磨練
+deter(v.)威嚇
+dull(v.)使失去…
+resonate(v.)引起共鳴
 illuminate(v.)照亮
+pierce(v.)穿刺進
+oblige(v.)有義務+to
+entitle(v.)賦予
+splurge(v.)揮霍、大津花費
 indulge(v.)放縱
 insert(v.)放
-integrate(v.)融入
-maneuver(v.)滑順華麗的操作
-oblige(v.)有義務+to
-perplex(v.)困惑
-pierce(v.)穿刺進
-resonate(v.)引起共鳴
-revise(v.)修正 衍：amend, correct, modify
+cultivate(v.)栽培；種植
+charge(v.)指控
 specify(v.)指明
-splurge(v.)揮霍、大津花費
-stagger(v.)步履蹣跚
+perplex(v.)困惑
+integrate(v.)融入
 unveil(v.)告訴
-yield(v.)產生；讓步
+hone(v.)磨練
+coin(v.)創造
+administer(v.)掌管
 
 adj.:
 abstract(adj.)抽象
-adjacent(adj.)鄰近的
-ample(adj.)大量或更多
-authentic(adj.)道地的
-benign(adj.)和善的
+grim(adj.)悲觀的 = pessimistic
+wary(adj.)謹慎的 = careful
+grueling(adj.)令人疲累的
 concentrated(adj.)密集的
+benign(adj.)和善的
 conversely(adj.)相反地 衍：adversely, counter, opposite
+authentic(adj.)道地的
+monetary(adj.)和錢相關的
+imperative(adj.)極為重要的
+notorious(adj.)臭名昭著
+imposing(adj.)驚人的
+robust(adj.)強壯健康的；富有味道的
+ample(adj.)大量或更多
+prone(adj.)傾向
+tempting(adj.)誘人的
+irresistible(adj.)不可抗拒的
+impulsive(adj.)衝動的
+adjacent(adj.)鄰近的
 deficient(adj.)不足的
 evident(adj.)明顯的
-grim(adj.)悲觀的 = pessimistic
-grueling(adj.)令人疲累的
-imperative(adj.)極為重要的
-imposing(adj.)驚人的
-impulsive(adj.)衝動的
-intricate(adj.)錯綜複雜的
-irresistible(adj.)不可抗拒的
-monetary(adj.)和錢相關的
-neutral(adj.)中立的
-notorious(adj.)臭名昭著
-prone(adj.)傾向
-robust(adj.)強壯健康的；富有味道的
 sarcastic(adj.)諷刺的
-tempting(adj.)誘人的
-wary(adj.)謹慎的 = careful
+neutral(adj.)中立的
+intricate(adj.)錯綜複雜的
 
 adv.:
 inevitably(adv.)必然的
-ironically(adv.)諷刺地
-occasionally(adv.)偶爾地
 unanimously(adv.)一致的
-
-
+occasionally(adv.)偶爾地
+ironically(adv.)諷刺地
 
 Idioms:
 come under fire(v.)被批評
@@ -148,29 +146,29 @@ unplanned purchase(n.)非計劃購買
 atrocity (n.)暴行
 
 Phrases:
-a great amount of N.[U]
+regard to 考慮到 衍：delve into = research on研究
 attribute sth. to sth. 歸因於
+give sb. credit for sth. 因…給…讚許
+confess to N./Ving = admit = candid = own up 坦白
+resort to N./Ving = take action
+stagger from A to B
+yield to = concede to = make concession to = give in to
+be justified to Ving = 做…是合理的
+a great amount of N.[U]
+be subject to = 受…的控制
 be comprised of = be made of
 be devoid of = be lack of
-be justified to Ving = 做…是合理的
-be subject to = 受…的控制
-confess to N./Ving = admit = candid = own up 坦白
-deprive from 被剝奪
-endow with 被賦予
 engage in sth.從事
-engage in 從事
-from the cradle to the grave=lifetime 
-give sb. credit for sth. 因…給…讚許
 in terms of就…而論
 not to mention 更不用說
 on no account 絕不
-regard to 考慮到 衍：delve into = research on研究
-release from hospital 出院
-resort to N./Ving = take action
-stagger from A to B
 to sum up 總結
+engage in 從事
 turn the other cheek轉過臉頰=忍耐包容
-yield to = concede to = make concession to = give in to
+release from hospital 出院
+deprive from 被剝奪
+endow with 被賦予
+from the cradle to the grave=lifetime 
 
 Sentences:
 Happiness lies in contentment.
