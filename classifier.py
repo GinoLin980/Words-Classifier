@@ -1,3 +1,6 @@
+import csv, openpyxl
+import pandas as pd
+
 # 利用清單儲存分類
 Words = {"n.": [], "v.": [], "adj.": [], "adv.": []}
 Idioms = []
@@ -56,11 +59,11 @@ for line in content.split("\n"):
 
 # 將資料寫入檔案並詢問是否排序
 with open("export.txt", "w") as f:
-    # if input("要按字母順序嗎y/n ").lower() == "y":
-    #     for i in Words:
-    #         Words[i].sort()
-    # Phrases.sort()
-    # Sentences.sort()
+    if input("要按字母順序嗎y/n ").lower() == "y":
+        for i in Words:
+            Words[i].sort()
+    Phrases.sort()
+    Sentences.sort()
     # 將索引中的每個清單寫入檔案並加上換行
     for name, value in index.items():
         f.write(f"{name}:\n")
@@ -75,7 +78,6 @@ with open("export.txt", "w") as f:
             f.write("\n\n")
 
 
-import csv
 
 # Prepare the headers for the CSV file
 headers = ["Words", "Idioms", "Phrases", "Sentences", "Others"]
@@ -97,7 +99,7 @@ for i in range(
     row = []
     for category in headers:
         if category == "Words":
-            for part in ["n.", "v.", "adj.", "adv."]:
+            for part in volcabuary:
                 row.append(Words[part][i] if i < len(Words[part]) else "")
         else:
             row.append(index[category][i] if i < len(index[category]) else "")
@@ -112,20 +114,17 @@ with open("export.csv", "w", newline="", encoding="utf-8") as f:
     writer.writerow(volcabuary)
     writer.writerows(data)
 
-import pandas as pd
-
+# 利用Pandas來轉換資料格式
 data = pd.read_csv("export.csv")
 data.to_excel("export.xlsx", index=False)
 
-
-import openpyxl
-
+# adjust the width of the columns
 # Load your workbook and select the active worksheet
 wb = openpyxl.load_workbook('export.xlsx')
 ws = wb.active
 
 # Set the width of multiple columns
-for col in ['A', 'B', 'C', 'E', 'F', 'G', 'H']:
+for col in ['A', 'B', 'C','D', 'E', 'F', 'G', 'H']:
     ws.column_dimensions[col].width = 30
 
 # Save the changes
