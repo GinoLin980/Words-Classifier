@@ -138,7 +138,7 @@ plot(n.)情節
 coin(v.)創造
 deprive from 被剝奪
 endow with 被賦予
-atrocity (n.)暴行
+atrocity(n.)暴行
 regime(n.)政權
 plight(n.)困境
 visa(n.)簽證

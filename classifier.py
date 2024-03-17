@@ -19,7 +19,7 @@ index = {
 
 
 # 將資料讀取
-with open("import.txt", "r") as f:
+with open("import.txt", "r", encoding='utf-8') as f:
     content = f.read()
 
 
@@ -58,7 +58,7 @@ for line in content.split("\n"):
 
 
 # 將資料寫入檔案並詢問是否排序
-with open("export.txt", "w") as f:
+with open("export.txt", "w", encoding='utf-8') as f:
     if input("要按字母順序嗎y/n ").lower() == "y":
         for i in Words:
             Words[i].sort()
