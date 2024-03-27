@@ -10,6 +10,7 @@ asset(n.)有價值的東西
 atrocity(n.)暴行
 brochure(n.)手冊
 column(n.)專欄
+consensus(n.)一致
 consent(n.)同意
 consistency(n.)一致性；質地
 contentment(n.)滿足
@@ -19,12 +20,13 @@ credit(n.)學分[C]；讚許，賒帳[U]
 critter(n.)小動物
 cumin(n.)孜然
 demonstration(n.)示範
-deposit(n.)存款
 dilemma(n.)困境
+diligence(n.)勤勉
 disdain(n.)鄙視
 dispute(n.)紛爭
 excerpt(n.)摘錄片段
 fare(n.)票價
+fluctuation(n.)波動
 foible(n.)怪癖
 furniture(n.)家具
 gland(n.)腺體
@@ -32,6 +34,7 @@ grave(n.)墳墓
 growth(n.)腫瘤
 guests(n.)賓客
 hue(n.)色調
+implementation(n.)實施
 indicator(n.)
 infancy(n.)起步階段
 leverage(n.)力量
@@ -42,6 +45,7 @@ pabulum(n.)精神糧食
 pigment(n.)天然染色劑
 plight(n.)困境
 plot(n.)情節
+proficiency(n.)熟練
 punctuation(n.)標點符號
 regime(n.)政權
 regret(n.)後悔
@@ -57,6 +61,7 @@ stew(n.)燉肉
 synthetic(n.)人造模仿天然物
 tactic(n.)手法
 temptation(n.)誘惑
+thoroughness(n.)徹底
 tradeoff(n.)妥協
 trio(n.)三個人或三件事
 turmeric(n.)薑黃
@@ -70,6 +75,10 @@ yacht(n.)遊艇
 
 v.:
 administer(v.)掌管
+alleviate(v.)減輕
+allocate(v.)分配
+amplify(v.)增強
+assess(v.)評估
 charge(v.)指控
 coin(v.)創造
 consummate(adj.)完美的 (v.)完善
@@ -77,22 +86,36 @@ content(v.)滿足
 cultivate(v.)栽培；種植
 deposit(v.)存錢到銀行
 deter(v.)威嚇
+distribute(v.)分發
 dub(v.)稱…為
 dull(v.)使失去…
 empower(v.)授權
+enhance(v.)增強
 entitle(v.)賦予
+escalate(v.)升級
+evaluate(v.)評估
+examine(v.)檢查
+execute(v.)執行
 exploit(v.)剝削
+fluctuate(v.)波動
+foster(v.)促進
 hone(v.)磨練
 illuminate(v.)照亮
+implement(v.)實施
 indulge(v.)放縱
 insert(v.)放
 integrate(v.)融入
+intensify(v.)加強
 maneuver(v.)滑順華麗的操作
+mitigate(v.)減輕
+nurture(v.)培養
 oblige(v.)有義務+to
+oscillate(v.)振盪
 perplex(v.)困惑
 pierce(v.)穿刺進
 resonate(v.)引起共鳴
 revise(v.)修正 衍：amend, correct, modify
+scrutinize(v.)仔細檢查
 specify(v.)指明
 splurge(v.)揮霍、大津花費
 stagger(v.)步履蹣跚
@@ -103,12 +126,17 @@ adj.:
 abstract(adj.)抽象
 adjacent(adj.)鄰近的
 ample(adj.)大量或更多
+articulate(adj.)表達清晰的
 authentic(adj.)道地的
 benign(adj.)和善的
+comprehensive(adj.)全面的
 concentrated(adj.)密集的
 conversely(adj.)相反地 衍：adversely, counter, opposite
 deficient(adj.)不足的
+diligent(adj.)勤奮的
+eloquent(adj.)雄辯的
 evident(adj.)明顯的
+feasible(adj.)可行的
 grim(adj.)悲觀的 = pessimistic
 grueling(adj.)令人疲累的
 imperative(adj.)極為重要的
@@ -119,16 +147,25 @@ irresistible(adj.)不可抗拒的
 monetary(adj.)和錢相關的
 neutral(adj.)中立的
 notorious(adj.)臭名昭著
+potential(adj.)潛在的
+practical(adj.)實際的
+pragmatic(adj.)實用的
+proficient(adj.)精通的
 prone(adj.)傾向
+rigorous(adj.)嚴格的
 robust(adj.)強壯健康的；富有味道的
 sarcastic(adj.)諷刺的
+stringent(adj.)嚴格的
 tempting(adj.)誘人的
+thorough(adj.)徹底的
+viable(adj.)可行的
 wary(adj.)謹慎的 = careful
 
 adv.:
 inevitably(adv.)必然的
 ironically(adv.)諷刺地
 occasionally(adv.)偶爾地
+proficiently(adv.)熟練地
 unanimously(adv.)一致的
 
 Idioms:
@@ -146,6 +183,7 @@ guilty pleasure(n.)心痛的享受
 unplanned purchase(n.)非計劃購買
 
 Phrases:
+
 a great amount of N.[U]
 attribute sth. to sth. 歸因於
 be comprised of = be made of
