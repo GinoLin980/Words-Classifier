@@ -165,5 +165,4 @@ def main():
     write_CSV()
     xlsx_convert()
     
-if __name__ == "__main__":
-    main()
+main()
